@@ -39,22 +39,6 @@ Firefox: https://addons.mozilla.org/en-GB/firefox/addon/ping-checker/
 
 ---
 
-## File Structure
-
-ping-checker/
-├── background.js       # Service worker that schedules fetches & updates badge
-├── manifest.json       # Extension metadata & permissions
-├── popup.html          # Popup markup & embedded chart container
-├── popup.js            # Controls popup behavior & communicates with background.js
-├── chart.js            # Chart.js library (v3.x)
-├── icon16.png          # 16×16 icon
-├── icon48.png          # 48×48 icon
-├── icon128.png         # 128×128 icon
-└── README.md           # You are here!
-
-
----
-
 ## Key Components
 
 **background.js**  
