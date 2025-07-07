@@ -61,20 +61,4 @@ Firefox: https://addons.mozilla.org/en-GB/firefox/addon/ping-checker/
 ## Development
 
 - Make sure you have the Chart.js library in `chart.js`. You can install it via npm and build, or download the UMD build from the official [Chart.js site](https://www.chartjs.org/).  
-- After any code change, reload the extension on `chrome://extensions`.  
-
----
-
-## Contributing
-
-1. Fork this repository.  
-2. Create a feature branch:  
-   ```git checkout -b feature/YourFeature```
-
-3. Commit your changes:
-   ```git commit -m "Add some feature"```
-4. Push to the branch:
-   ```git push origin feature/YourFeature```
-5. Open a Pull Request.
-
-   
+- After any code change, reload the extension on `chrome://extensions`.     
