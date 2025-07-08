@@ -23,7 +23,7 @@ Firefox: https://addons.mozilla.org/en-GB/firefox/addon/ping-checker/
 1. Clone the repo or download the source:
    ```
    git clone https://github.com/passimon/ping-checker.git
-   cd ping-checker ```
+   cd ping-checker
 2. Open Chrome and navigate to `chrome://extensions`.
 3. Enable Developer mode (toggle in the top‐right).
 4. Click Load unpacked and select the project’s root folder.
